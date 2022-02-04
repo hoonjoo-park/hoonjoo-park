@@ -40,10 +40,5 @@ Here are some ideas to get you started:
 [![SC](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=ffffff)](github.com/hoonjoo-park/pipi)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoonjoo-park&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonjoo-park&exclude_repo=github-readme-stats,hoonjoo-park.github.io&layout=compact&theme=dracula" />
-</a>
-
+|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hoonjoo-park&show_icons=true&theme=dracula" /></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonjoo-park&exclude_repo=github-readme-stats,hoonjoo-park.github.io&layout=compact&theme=dracula" /></a>|
+| ------------- | ------------- |
