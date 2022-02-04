@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🥑 Stacks
+
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/hoonjoo-park/chala)
 [![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black)](github.com/hoonjoo-park/Type-Todo)
 [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/hoonjoo-park/pipi) 
@@ -37,8 +38,8 @@ Here are some ideas to get you started:
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](github.com/hoonjoo-park/pipi)
 [![SC](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=ffffff)](github.com/hoonjoo-park/pipi)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonjoo-park&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoonjoo-park&exclude_repo=github-readme-stats,hoonjoo-park.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonjoo-park&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoonjoo-park&exclude_repo=github-readme-stats,hoonjoo-park.github.io&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🙇🏻‍♂️ Today
