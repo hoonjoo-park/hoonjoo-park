@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 
 ---
 
+## 🍙 Blog
+
+[https://hoonjoo-park.github.io/](https://hoonjoo-park.github.io/)
+
+---
+
 ## 🏃🏻‍♂️ Career
 | Type |      Organization     |        Date       |           Details          |
 |:----:|:---------------------:|:-----------------:|:--------------------------:|
