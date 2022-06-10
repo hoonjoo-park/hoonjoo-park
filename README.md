@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 |:----:|:---------------------:|:-----------------:|:--------------------------:|
 |   🎓  |  University of Seoul  |      2022.02      |    Business & Management   |
 |   👔  |      Vaiv Company     | 2020.07 ~ 2022.01 |           AI LAB           |
-|   🔥  | Wanted Pre-Onboarding |     2022.01 ~     | Frontend Onboarding Course |
+|   🔥  | Wanted Pre-Onboarding |     2022.01 ~ 2022.03    | Frontend Onboarding Course |
 
 ---
 
