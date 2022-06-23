@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoonjoo-park&count_bg=%23F5D042&title_bg=%230A174E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HoonJoo&fontSize=60&animation=fadeIn)
+# HoonJoo Park
 
----
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HoonJoo&fontSize=60&animation=fadeIn) -->
+
 
 ## 🍙 Blog
 
@@ -45,6 +46,6 @@ Here are some ideas to get you started:
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](github.com/hoonjoo-park/pipi)
 [![SC](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=ffffff)](github.com/hoonjoo-park/pipi)
 
-
+<!-- 
 |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hoonjoo-park&show_icons=true&theme=dracula" /></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoonjoo-park&exclude_repo=github-readme-stats,hoonjoo-park.github.io&layout=compact&theme=dracula" /></a>|
-| ------------- | ------------- |
+| ------------- | ------------- | -->
