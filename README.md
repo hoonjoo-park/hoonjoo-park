@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 |:----:|:---------------------:|:-----------------:|:--------------------------:|
 |   🎓  |  University of Seoul  |      2022.02      |    Business & Management   |
 |   👔  |      Vaiv Company     | 2020.07 ~ 2022.01 |           AI LAB           |
-
+| ✅ | DoubleNC | 2022.05 ~ 2023.09 | Mobile & Web development |
 ---
 
 ## 🥑 Stacks
