@@ -7,7 +7,7 @@
 
 [(Old) 기술 블로그](https://hoonjoo-park.github.io/)
 
-[(New) 기술 블로그](https://hoonjoo-park.github.io/)
+[(New) 기술 블로그](https://hoon-juice.pages.dev/dev)
 
 ---
 
