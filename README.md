@@ -5,9 +5,9 @@
 
 ## 🍙 Blog
 
-[(Old) 기술 블로그](https://hoonjoo-park.github.io/)
+[(New) Tech Blog](https://hoon-juice.pages.dev/dev)
 
-[(New) 기술 블로그](https://hoon-juice.pages.dev/dev)
+[(Old) Tech Blog](https://hoonjoo-park.github.io/)
 
 ---
 
