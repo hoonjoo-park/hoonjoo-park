@@ -1,7 +1,7 @@
 # HoonJoo Park
 
 
-## 🍙 Blog
+## 🍙 Tech Blog
 
 [My Tech Blog](https://hoon-juice.pages.dev/dev)
 
